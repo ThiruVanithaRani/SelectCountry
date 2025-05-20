@@ -42,8 +42,7 @@ enum API {
 Update as needed for production or testing environments.
 
 📂 Project Structure
-markdown
-CopyEdit
+
 CountriesApp/
 ├── Model/
 │   └── Country.swift
